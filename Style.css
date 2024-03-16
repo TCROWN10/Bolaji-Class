@@ -50,7 +50,7 @@ padding-top: 4rem;
     padding-left: 1rem;
 }
 .background-container{
-    background-image: url(/newsletter-sign-up-with-success-message-main/assets/images/illustration-sign-up-desktop.svg);
+    background-image: url(illustration-sign-up-desktop.svg);
     background-size: cover;
     width: 23rem;
     margin: 1rem;
@@ -138,7 +138,7 @@ padding-left: 1rem;
         position: relative;
         bottom: 35rem;
         right: 0.5rem;
-        background-image: url(/newsletter-sign-up-with-success-message-main/assets/images/illustration-sign-up-mobile.svg);
+        background-image: url(illustration-sign-up-mobile.svg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
